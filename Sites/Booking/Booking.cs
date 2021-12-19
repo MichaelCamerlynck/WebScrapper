@@ -39,7 +39,7 @@ namespace WebScapper.Sites.Booking
         {
             // set driver up
             ChromeOptions options = new ChromeOptions();
-            var chromeDriverService = ChromeDriverService.CreateDefaultService(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+            var chromeDriverService = ChromeDriverService.CreateDefaultService(".\\");
             chromeDriverService.HideCommandPromptWindow = true;
             chromeDriverService.SuppressInitialDiagnosticInformation = true;
             options.AddArgument("headless");
