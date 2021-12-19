@@ -1,0 +1,17 @@
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.exe
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.deps.json
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.runtimeconfig.json
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.runtimeconfig.dev.json
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.dll
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebScapper.pdb
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\CsvHelper.dll
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\WebDriver.dll
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.csproj.AssemblyReference.cache
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.AssemblyInfoInputs.cache
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.AssemblyInfo.cs
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.csproj.CoreCompileInputs.cache
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.dll
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.pdb
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\obj\Release\netcoreapp3.1\WebScapper.genruntimeconfig.cache

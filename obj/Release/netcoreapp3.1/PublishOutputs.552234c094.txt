@@ -1,0 +1,8 @@
+C:\Users\camer\OneDrive\Desktop\WebScapper.exe
+C:\Users\camer\OneDrive\Desktop\WebScapper.dll
+C:\Users\camer\OneDrive\Desktop\WebScapper.deps.json
+C:\Users\camer\OneDrive\Desktop\WebScapper.runtimeconfig.json
+C:\Users\camer\OneDrive\Desktop\WebScapper.pdb
+C:\Users\camer\OneDrive\Desktop\CsvHelper.dll
+C:\Users\camer\OneDrive\Desktop\Newtonsoft.Json.dll
+C:\Users\camer\OneDrive\Desktop\WebDriver.dll

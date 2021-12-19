@@ -1,0 +1,3 @@
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\win-x64\publish\chromedriver.exe
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\win-x64\publish\WebScapper.pdb
+C:\Users\camer\OneDrive\Desktop\WebScrapper\WebScapper\bin\Release\netcoreapp3.1\win-x64\publish\WebScapper.exe
