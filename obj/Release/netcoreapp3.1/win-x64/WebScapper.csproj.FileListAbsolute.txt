@@ -475,3 +475,4 @@ C:\Users\camer\OneDrive\Desktop\WebScrapper - Copy\WebScapper\obj\Release\netcor
 C:\Users\camer\OneDrive\Desktop\WebScrapper - Copy\WebScapper\obj\Release\netcoreapp3.1\win-x64\WebScapper.dll
 C:\Users\camer\OneDrive\Desktop\WebScrapper - Copy\WebScapper\obj\Release\netcoreapp3.1\win-x64\WebScapper.pdb
 C:\Users\camer\OneDrive\Desktop\WebScrapper - Copy\WebScapper\obj\Release\netcoreapp3.1\win-x64\WebScapper.genruntimeconfig.cache
+C:\Users\camer\OneDrive\Desktop\WebScrapper - Copy\WebScapper\obj\Release\netcoreapp3.1\win-x64\WebScapper.csproj.CopyComplete

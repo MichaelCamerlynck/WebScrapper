@@ -13,8 +13,8 @@ namespace WebScapper
         {
             do
             {
-                //try
-                //{
+                try
+                {
                     IntroPage.Print();
                     char pickedOption = Convert.ToChar(Console.ReadLine().Substring(0, 1));
 
@@ -40,15 +40,15 @@ namespace WebScapper
                     }
                     Console.Write("\nPress enter to continue...");
                     Console.ReadLine();
-                //}
-                //catch
-                //{
-                //    Console.WriteLine("Error Occured, press enter to return to menu...");
-                //    Console.ReadLine();
-                //}
-                
+            }
+                catch
+            {
+                Console.WriteLine("Error Occured, press enter to return to menu...");
+                Console.ReadLine();
+            }
 
-            } while (true);
+
+        } while (true);
         }
     }
 }
