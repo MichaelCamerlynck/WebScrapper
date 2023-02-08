@@ -43,7 +43,7 @@ namespace WebScapper
             }
                 catch
             {
-                Console.WriteLine("Error Occured, press enter to return to menu...");
+                Console.WriteLine("Error Occured, press enter to return to menu....");
                 Console.ReadLine();
             }
 
